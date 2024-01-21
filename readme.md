@@ -9,7 +9,7 @@
  </p>
 
 
-## Technologies
+## Tecnologias
 
 - React-Native
 - Expo
